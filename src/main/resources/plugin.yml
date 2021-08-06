@@ -1,0 +1,8 @@
+name: CommandsPart1
+version: ${project.version}
+main: me.kodysimpson.commandspart1.CommandsPart1
+api-version: 1.17
+commands:
+  die:
+    description: End it all with a command
+    usage: /<command>
